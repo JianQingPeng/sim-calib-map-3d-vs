@@ -1,0 +1,8 @@
+version: simcalibmap3d-vs-v1.1
+date: 2016.3.14
+1. new: command usage
+2. format for Chen FuCai dataset
+
+version: simcalibmap3d-vs-v1.1
+date: 2016.1.16.
+1. new: synchronize camera and odometry by interpolation
